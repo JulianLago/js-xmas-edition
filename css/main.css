@@ -106,3 +106,9 @@ footer a:hover {
         display: none;
     }
 }
+
+.error{
+  border-style: solid;
+  border-width: 3px;
+  border-color: red;
+}
